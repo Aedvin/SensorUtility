@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For OneWire
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+sensor_value	KEYWORD1
+sensor_packet	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+swap	KEYWORD2
+write_sensor	KEYWORD2
+read_sensor	KEYWORD2
+is_big_endian	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SENSOR_TEMP	LITERAL1
+SENSOR_HUMIDITY LITERAL1
+SENSOR_PRESSURE LITERAL1
+SENSOR_VOLTAGE LITERAL1
