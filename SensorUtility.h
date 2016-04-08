@@ -1,11 +1,3 @@
-/*
- * File:   SensorUtility.h
- * Author: Alda
- *
- * Created on 11. března 2016, 21:28
- */
-
-
 #ifndef SENSORUTILITY_H
 #define	SENSORUTILITY_H
 
